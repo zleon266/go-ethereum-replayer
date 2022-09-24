@@ -1,0 +1,10 @@
+{
+  "username": "root",
+  "password": "123456",
+  "database": "ethereum",
+  "port": "20",
+  "tableBalance": "storage_kv",
+  "tableCall": "contract_internal_txns",
+  "endpoint": "db connection ",
+  "cacheRecordNum": "100"
+}
